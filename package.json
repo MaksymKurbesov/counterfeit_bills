@@ -1,0 +1,29 @@
+{
+  "name": "counterfeit_bills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymKurbesov/counterfeit_bills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymKurbesov/counterfeit_bills/issues"
+  },
+  "homepage": "https://github.com/MaksymKurbesov/counterfeit_bills#readme",
+  "dependencies": {
+    "@grammyjs/menu": "^1.2.1",
+    "grammy": "^1.22.4",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
